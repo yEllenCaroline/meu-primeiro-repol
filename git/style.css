@@ -1,0 +1,19 @@
+.card {
+    background-color: lightseagreen;
+    width: 500px; /*Largura*/
+    height: fit-content; /* Altura*/
+    border-radius: 25px; /*Deixar a borda redonda*/
+    border: solid 5px yellow; /* borda, com tipo, tamanho e cor*/
+    margin-bottom: 20px; /*Tipo um <br> para dar espaçamento*/
+}
+
+.box {
+    width: 100px;
+    height:100px;
+    background-image: url('https://cdn-icons-png.flaticon.com/512/706/706797.png');
+    background-size: cover;
+
+}
+.main-color{
+    color:blue
+}
